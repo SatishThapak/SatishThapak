@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-Welcome to my GitHub profile — I'm **Satish Thapak**, a passionate **DevOps Engineer** from 🇮🇳 **India**.
+Welcome to my GitHub profile — I'm **Satish Thapak**, a passionate **DevOps Practitioner** from 🇮🇳 **India**.
 
 I specialize in building efficient, secure, and scalable DevOps pipelines and infrastructure. I love automating everything, managing cloud infrastructure, and delivering software faster and better!
 
