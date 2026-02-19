@@ -1,4 +1,4 @@
-# 👋 Hello, World!
+# 👋 Hello, Everyone!
 
 Welcome to my GitHub profile — I'm **Satish Thapak**, a passionate **DevOps Practitioner** from 🇮🇳 **India**.
 
